@@ -38,7 +38,7 @@
 	
 	const search = $('#search');
 	const bouton = $('#bouton');
-	const omdbApiKey = '6c0bab5d8c9088d765ceadd52140c0a5';
+	const omdbApiKey = '6***********************************5';
 
 	bouton.click(function() {
 		//alert( search.val() );
